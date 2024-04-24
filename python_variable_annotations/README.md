@@ -1,4 +1,3 @@
-
 # Python - Variable Annotations
 
 - Type annotations in Python 3
@@ -34,4 +33,3 @@
 | **7-main.py, 7-to_kv.py**                  | Complex types - string and int/float to tuple |
 | **8-main.py, 8-make_multiplier.py**        | Complex types - functions                     |
 | **9-main.py, 9-element_length.py**         | Let's duck type an iterable object            |
-|
