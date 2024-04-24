@@ -1,8 +1,5 @@
-<p>
-<img width="260" height="170" src="https://www.flaticon.com/svg/static/icons/svg/1661/1661330.svg" align="right" >
-</p>
 
-# :colombia: 0x00. Python - Variable Annotations
+# Python - Variable Annotations
 
 - Type annotations in Python 3
 - How you can use type annotations to specify function signatures and variable types
@@ -22,18 +19,6 @@
 - All your modules should have a documentation `(python3 -c 'print(__import__("my_module").__doc__)')`
 - All your classes should have a documentation `(python3 -c 'print(__import__("my_module").MyClass.__doc__)')`
 - All your functions (inside and outside a class) should have a documentation `(python3 -c 'print(__import__("my_module").my_function.__doc__)' and python3 -c 'print(__import_- ("my_module").MyClass.my_function.__doc__)')`
-
-## Contributing
-
--- Santiago Yanguas - Holberton Student
-
-## Versioning
-
-For my learning of backend web dev in Holberton School
-
-## Authors
-
----Santiago Yanguas 946@holbertonshcool.com
 
 ## Files
 
