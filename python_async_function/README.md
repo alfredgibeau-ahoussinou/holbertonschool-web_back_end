@@ -1,8 +1,4 @@
-<p>
-<img width="260" height="170" src="https://www.flaticon.com/svg/static/icons/svg/1069/1069890.svg" align="right" >
-</p>
-
-# :colombia: 0x01. Python - Async
+Python - Async
 
 - async and await syntax
 - How to execute an async program with asyncio
@@ -23,18 +19,6 @@
 - All your functions and coroutines must be type-annotated.
 - All your modules should have a documentation `(python3 -c 'print(__import__("my_module").__doc__)')`
 - All your functions should have a documentation `(python3 -c 'print(__import__("my_module").my_function.__doc__)'`
-
-## Contributing
-
--- Santiago Yanguas - Holberton Student
-
-## Versioning
-
-For my learning of backend web dev in Holberton School
-
-## Authors
-
----Santiago Yanguas 946@holbertonshcool.com
 
 ## Files
 
