@@ -1,9 +1,7 @@
-<p>
-<img width="260" height="170" src="image.png" align="right" >
-</p>
+![image](https://github.com/alfredgibeau-ahoussinou/holbertonschool-web_back_end/assets/146840606/aa05aca8-7d7e-49f3-a8e9-6a0b61579a45)
+
 
 # ES6 Basics
-
 - What ES6 is
 - New features introduced in ES6
 - The difference between a constant and a variable
