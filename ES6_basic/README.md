@@ -1,3 +1,7 @@
+<p>
+<img width="260" height="170" src="image.png" align="right" >
+</p>
+
 # ES6 Basics
 
 - What ES6 is
